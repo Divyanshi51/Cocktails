@@ -1,10 +1,5 @@
 # [Live site url](https://cocktaildbsite.netlify.app/)
 
-## HomePage
-<hr>
-
-![Web capture_29-12-2022_10522_cocktaildbsite netlify app](https://user-images.githubusercontent.com/103261764/209908092-3613b34a-ba3f-442e-a805-46fefeec8f5c.jpeg)
-
 ## Search Result
 <hr>
 
